@@ -12,5 +12,5 @@ const handleBoxAccess = (req, res)=>{
 };
 
 module.exports={
-    handleContactForm, handleBoxAccess
+    handleBoxAccess
 }
